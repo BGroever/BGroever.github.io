@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1c87a93.css",
-    "main.js": "/static/js/main.879f6e98.js",
-    "static/js/453.4dca5c94.chunk.js": "/static/js/453.4dca5c94.chunk.js",
-    "index.html": "/index.html",
-    "main.e1c87a93.css.map": "/static/css/main.e1c87a93.css.map",
-    "main.879f6e98.js.map": "/static/js/main.879f6e98.js.map",
-    "453.4dca5c94.chunk.js.map": "/static/js/453.4dca5c94.chunk.js.map"
+    "main.css": "/taylor-web/static/css/main.4437c5c0.css",
+    "main.js": "/taylor-web/static/js/main.54d474db.js",
+    "static/js/453.4dca5c94.chunk.js": "/taylor-web/static/js/453.4dca5c94.chunk.js",
+    "index.html": "/taylor-web/index.html",
+    "main.4437c5c0.css.map": "/taylor-web/static/css/main.4437c5c0.css.map",
+    "main.54d474db.js.map": "/taylor-web/static/js/main.54d474db.js.map",
+    "453.4dca5c94.chunk.js.map": "/taylor-web/static/js/453.4dca5c94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1c87a93.css",
-    "static/js/main.879f6e98.js"
+    "static/css/main.4437c5c0.css",
+    "static/js/main.54d474db.js"
   ]
 }
